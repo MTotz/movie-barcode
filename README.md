@@ -8,3 +8,9 @@ Further customizations include:
 * Choosing to take each nth frame, or take a frame every nth second,
 * Specifying a specific slice of the video you want to make into a barcode,
 * Choosing to save the barcode as a PNG file.
+
+
+## To-do
+1. Add option for starting point for barcode
+2. Add GUI
+3. Add sample images to README
