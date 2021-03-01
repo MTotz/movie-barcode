@@ -1,6 +1,6 @@
 # movie-barcode
 
-![alt text](sample.png?raw=true)
+<img src="sample.png" width="85%">
 
 ## Create a barcode out of your favorite video
 
