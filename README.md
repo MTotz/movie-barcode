@@ -1,6 +1,6 @@
 # movie-barcode
 
-![alt text](https://github.com/MTotz/movie-barcode/main/sample.png?raw=true)
+![alt text](sample.png?raw=true)
 
 ## Create a barcode out of your favorite video
 
