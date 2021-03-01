@@ -218,8 +218,8 @@ def barcode(video_file, bar_type, n_frames=-1, n_seconds=1, bar_width=1, stop=1,
 
 
 if __name__ == "__main__":
-    file = "/Users/michael/Desktop/Lord.Of.The.Rings.The.Two.Towers.2002.720p.BrRip.264.YIFY.mp4"
+    vid = "/Users/michael/Desktop/sample_video.mp4"
     print()
-    fig = barcode(file, "average", n_seconds=60,
+    fig = barcode(vid, "average", n_seconds=60,
                   bar_width=1, stop=1, save_fig=False)
     plt.show()
